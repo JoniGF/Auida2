@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Auida2</string>
+    <string-array name="preguntas">
+        <item>1- ¿Por qué hace falta un nuevo Sistema de Licencias de Conducir?</item>
+        <item>2- ¿Qué beneficios tiene?</item>
+        <item>3- ¿Debo tramitar la licencia ahora o puedo esperar a que venza?</item>
+        <item>4- ¿Qué requisitos debo cumplimentar para obtener la Licencia Nacional de Conducir por primera vez?</item>
+        <item>5- ¿Requisitos para renovar una licencia?</item>
+        <item>6- ¿A partir de qué edad puedo obtener mi Licencia Nacional de Conducir?</item>
+        <item>7- ¿Quisiera saber cuántos y cuáles exámenes tendré que aprobar para poder obtener mi licencia de conducir?</item>
+        <item>8- ¿Cuál es la modalidad de evaluación?</item>
+        <item>9- En caso de reprobar algún examen ¿cuánto debo esperar para poder rendirlo nuevamente?</item>
+        <item>10- ¿Qué necesito para circular?</item>
+    </string-array>
+    <string name="pregunta1">1- ¿Por qué hace falta un nuevo Sistema de Licencias de Conducir? \n\n
+
+-Porque había más de 1800 centros de emisión de licencias, con sus propios requisitos, costos, categorías y sistemas de seguridad.\n
+-Porque existían tantos formatos y diseños que los agentes de tránsito no podían realizar los controles fácilmente.\n
+-Porque los conductores inhabilitados en una jurisdicción podían obtener la licencia en otra.\n
+-Porque no había un base de datos unificada que permitiera llevar un Registro Nacional de Antecedentes de Tránsito.\n</string>
+    <string name="pregunta2">2- ¿Qué beneficios tiene?\n\n
+
+-Unifica el diseño de la Licencia para todas las jurisdicciones del país, lo que facilita la tarea de las autoridades de control.\n\
+-Establece un curso de capacitación integral en educación vial con contenidos unificados en todas las jurisdicciones.\n\
+-Unifica los requisitos y los criterios de evaluación en cada Centro de Emisión Certificado.\n
+-Permite la creación del Registro Nacional de Antecedentes de Tránsito para la implementación progresiva del sistema de puntos.\n
+-Cuenta con dos códigos bidimensionales y 35 marcas de seguridad que impiden su falsificación o adulteración.</string>
+    <string name="pregunta3">3- ¿Debo tramitar la licencia ahora o puedo esperar a que venza?\n \n
+
+El cambio de la Licencia se dará de manera paulatina cuando ocurra la expiración o renovación  de las Licencias ya emitidas. Ninguna Licencia en circulación PIERDE su actual VALIDEZ.</string>
+    <string name="pregunta4">4- ¿Qué requisitos debo cumplimentar para obtener la Licencia Nacional de Conducir por primera vez?\n\n
+
+-Saber leer y para los conductores profesionales también escribir;\n
+-Presentar original y Copia de DNI;\n
+-Presentar grupo y factor sanguíneo del titular;\n
+-Contar con la edad correspondiente para la clase solicitada;\n
+-Acompañar autorización del representante legal, si fuere menor (Ley Nacional 26.579);\n
+-CeNAT Certificado expedido por el Registro Nacional de Antecedentes de Tránsito sobre infracciones y sanciones penales en ocasión del tránsito, más los informes específicos para la categoría solicitada;\n
+-Completar una declaración jurada sobre el padecimiento de afecciones;\n
+-Asistir en forma obligatoria a un curso teórico práctico de educación para la seguridad vial (para aquellas personas que tramiten la obtención por primera vez);\n
+-Aprobar un examen médico psicofísico;\n
+-Aprobar un examen sobre educación y ética ciudadana, conducción, señalamiento y legislación;\n
+-Aprobar un examen teórico-práctico sobre detección de fallas de los elementos de seguridad del vehículo y de las funciones del equipamiento e instrumental.\n
+-Aprobar un examen práctico de idoneidad conductiva.</string>
+    <string name="pregunta5">5- ¿Requisitos para renovar una licencia?\n\n
+
+En todos los casos, para su renovación deberá presentarse DNI, licencia anterior, rendir el correspondiente examen psicofísico y, en caso de poseer antecedentes por infracciones graves o por otras faltas que establezca la AGENCIA NACIONAL DE SEGURIDAD VIAL, también el examen teórico-práctico.\n
+
+Además de requerirse al Registro Nacional de Antecedentes de Tránsito informes de infracciones y de sanciones penales en ocasión del tránsito, el certificado correspondiente.</string>
+    <string name="pregunta6">6- ¿A partir de qué edad puedo obtener mi Licencia Nacional de Conducir?\n \n
+
+-A partir de los veintiún (21) años para las clases de licencias C, D y E;\n
+-Diecisiete (17) años para las restantes clases;\n
+-Dieciséis (16) años para ciclomotores.</string>
+    <string name="pregunta7">7- ¿Quisiera saber cuántos y cuáles exámenes tendré que aprobar para poder obtener mi licencia de conducir? \n \n
+
+El aspirante deberá aprobar un curso teórico-práctico, el correspondiente examen psicofísico y tres (3) exámenes de capacidad y conocimiento.\n\n
+
+Estos últimos son:\n\n
+
+1.Examen teórico de conocimientos sobre educación y ética ciudadana, conducción, señalamiento y legislación;\n
+2.Examen teórico-práctico sobre detección de fallas de los elementos de seguridad del vehículo y de las funciones del equipamiento e instrumental;\n
+3.Examen práctico de idoneidad conductiva.</string>
+    <string name="pregunta8">8- ¿Cuál es la modalidad de evaluación?\n \n
+
+El sistema de evaluación es de opción múltiple, o sea consiste en preguntas múltiples choice, con la posibilidad de una pregunta a desarrollar.</string>
+    <string name="pregunta9">9- En caso de reprobar algún examen ¿cuánto debo esperar para poder rendirlo nuevamente?\n \n
+
+De reprobar un examen no se podrá volver a rendir el mismo antes de los 30 días, contando el postulante con 3 oportunidades para ello. Los exámenes son de carácter eliminatorio.</string>
+    <string name="pregunta10">10- ¿Qué necesito para circular?\n\n
+
+-Portar la licencia que lo  habilite para conducir ese tipo el vehículo en el que circula.\n
+-Portar la cédula (verde) de identificación del vehículo.\n
+-Portar comprobante de seguro en vigencia (no es necesario portar el comprobante del pago del mismo, según Disposición Nº 70/09 ANSV)\n
+-Que el vehículo, tenga colocadas las placas de identificación de dominio. Las mismas deben ser legibles de tipos normalizados y sin aditamentos;\n
+-Que el vehículo posea matafuego y balizas portátiles normalizados, excepto las motocicletas;\n
+-Que el número de ocupantes guarde relación con la capacidad para la que fue construido y no estorben al conductor;\n
+-Que sus ocupantes usen los correajes de seguridad en los vehículos que por reglamentación deben poseerlos;\n
+-Que tratándose de una motocicleta, sus ocupantes lleven puestos cascos normalizados, y si la misma no tiene parabrisas, su conductor use anteojos</string>
+    <string name="teoria">1. Portar la cédula verde al conducir, siempre que no se encuentre vencida acreditará el derecho o autorización para usar el automotor.\n\n
+02. Todo automotor deberá estar provisto de una bocina o aparato sonoro similar, cuyo sonido, sin ser estridente, se oiga a 100 metros.\n\n
+03. Todo automotor deberá estar provisto de dos sistemas de frenos de acción independiente.\n\n
+04. Todo automotor deberá estar provisto de un silenciador del escape que amortigüe las explosiones del motor.\n\n
+05. Todo automotor deberá estar provisto de paragolpes delanteros y traseros colocados a la misma altura respecto a la calzada.\n\n
+06. Todo automotor deberá estar provisto de correajes y cabezales de seguridad o dispositivos que los reemplacen.\n\n
+07. Todo automotor deberá estar provisto de velocímetro.\n\n
+08. Todo automotor deberá estar provisto de trabas de seguridad en capot, baúl y todas sus puertas.\n\n
+09. Las bicicletas y triciclos a pedal deberán contar con una luz blanca delantera de alcance medio o baja que permita ver a por lo menos 10 metros.\n\n
+10. Las bicicletas y triciclos a pedal deberán contar con al menos un sistema de frenos.\n\n
+11. Los vehículos ciclomotores y motocicletas deberán contar con cascos y anteojos de seguridad para el conductor y sus acompañantes.\n\n
+12. Los vehículos conducidos por sordos o hipoacúsicos deberán contar con dos espejos retroscópicos colocados uno en cada puerta delantera.\n\n
+13. Los vehículos conducidos por sordos o hipoacúsicos deberán contar con chapas pintadas en cuadros de dos por dos centímetros amarillos y rojos alternativamente.\n\n
+14. Las bicicletas y triciclos a pedal deberán estar provistas de un indicador sonoro que pueda oírse a una distancia suficiente.\n\n\
+15. Las bicicletas y triciclos a pedal deberán estar provistas de elementos reflectantes en los costados de ambas ruedas.\n\n
+16. Las chapas de identificación de un vehículo no deben colocarse a más de 1.20 metros respecto al nivel de la calzada.\n\n
+17. La licencia de conductor tiene una validez máxima de cinco años.\n\n
+18. Para conducir vehículos automotores, la autoridad expedidora requerirá del solicitante tener conocimientos básicos sobre comportamiento ante accidentes y primeros auxilios.\n\n
+19. La licencia de conductor caduca si han pasado más de 90 días de producido un cambio de jurisdicción del titular.\n\n
+20. La licencia de conductor podrá ser dada de baja si el conductor hubiera sufrido accidentes reiterados.\n\n
+21. En la vía pública, se deberá circular respetando el siguiente orden de prioridad: Primero las indicaciones de la autoridad competente, y luego las señales de tránsito.\n\n
+22. Son requisitos indispensables para la circulación vehicular en la vía pública: Portar cédula verde, comprobante del seguro hacia terceros y balizas y matafuegos homologados.\n\n
+23 Puede realizarse la maniobra de adelantamiento por el lado derecho cuando el conductor del vehículo que antecede va a girar o detenerse a su izquierda.\n\n
+24. En una rotonda se debe dar prioridad de paso a los peatones.\n\n
+25. En una rotonda, tiene prioridad de paso el que circula sobre el que ingresa, debiendo cederla al que egresa.</string>
+</resources>
